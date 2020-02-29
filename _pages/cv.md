@@ -34,7 +34,7 @@ Publications
 ======
 * Peer Reviewed Publication
   * Lawlor N, Marguez EJ, __Lee D&ast;__, Ucar D&ast;. (2020). V-SVA: an R shiny application for detecting and annotating sources of variation in single cell RNA-seq data. To appear in Bioinformatics.
-  * __Lee D&ast;__, Cheng A, Lawlor N, Bolisetty M, Ucar D*. (2018). Detection of correlated hidden factors from single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA), Scientific Reports 8, Article number:17040.
+  * __Lee D&ast;__, Cheng A, Lawlor N, Bolisetty M, Ucar D&ast;. (2018). Detection of correlated hidden factors from single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA), Scientific Reports 8, Article number:17040.
   * Chatzinakos C, __Lee D__, Webb BT, Vladimirov VI, Kendler KS, Bacanu SA. (2017). JEPEGMIX2: improved gene-level joint analysis of eQTLs in cosmopolitan cohorts, Bioinformatics, doi: 10.1093/bioinformatics/btx509.
   * Bigdeli TB, __Lee D__, Riley BP, Vladimirov VI, Fanous AH, Kendler KS and Bacanu SA. (2016). A simple yet accurate correction for winner’s curse can predict signals discovered in much larger genome scans, Bioinformatics, doi: 10.1093/bioinformatics/btw303.
   * __Lee D&ast;__, Williamson VS, Bigdeli TB, Riley BP, Webb BT, Fanous AH, Kendler KS, Vladimirov VI, Bacanu SA. (2015). JEPEGMIX: gene-level joint analysis of functional SNPs in cosmopolitan cohorts, Bioinformatics, doi: 10.1093/bioinformatics/btv567.
