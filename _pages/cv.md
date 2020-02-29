@@ -33,11 +33,11 @@ Work experience
 Publications
 ======
 * Peer Reviewed Publication
-  * Lawlor N, Marguez EJ, __Lee D*__, Ucar D;. (2020). V-SVA: an R shiny application for detecting and annotating sources of variation in single cell RNA-seq data. To appear in Bioinformatics.
-  * __Lee D*;__, Cheng A, Lawlor N, Bolisetty M, Ucar D;. (2018). Detection of correlated hidden factors from single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA), Scientific Reports 8, Article number:17040.
+  * Lawlor N, Marguez EJ, __Lee D*__, Ucar D. (2020). V-SVA: an R shiny application for detecting and annotating sources of variation in single cell RNA-seq data. To appear in Bioinformatics.
+  * __Lee D*__, Cheng A, Lawlor N, Bolisetty M, Ucar D. (2018). Detection of correlated hidden factors from single cell transcriptomes using Iteratively Adjusted-SVA (IA-SVA), Scientific Reports 8, Article number:17040.
   * Chatzinakos C, __Lee D__, Webb BT, Vladimirov VI, Kendler KS, Bacanu SA. (2017). JEPEGMIX2: improved gene-level joint analysis of eQTLs in cosmopolitan cohorts, Bioinformatics, doi: 10.1093/bioinformatics/btx509.
   * Bigdeli TB, __Lee D__, Riley BP, Vladimirov VI, Fanous AH, Kendler KS and Bacanu SA. (2016). A simple yet accurate correction for winner’s curse can predict signals discovered in much larger genome scans, Bioinformatics, doi: 10.1093/bioinformatics/btw303.
-  * __Lee D*;__, Williamson VS, Bigdeli TB, Riley BP, Webb BT, Fanous AH, Kendler KS, Vladimirov VI, Bacanu SA. (2015). JEPEGMIX: gene-level joint analysis of functional SNPs in cosmopolitan cohorts, Bioinformatics, doi: 10.1093/bioinformatics/btv567.
+  * __Lee D*__, Williamson VS, Bigdeli TB, Riley BP, Webb BT, Fanous AH, Kendler KS, Vladimirov VI, Bacanu SA. (2015). JEPEGMIX: gene-level joint analysis of functional SNPs in cosmopolitan cohorts, Bioinformatics, doi: 10.1093/bioinformatics/btv567.
   * Edwards AC, Bigdeli TB, Docherty AR, Bacanu SA, __Lee D__, de Candia TR, Moscati A, Thiselton DL, Maher BS, Wormley BK, Molecular Genetics of Schizophrenia Collaboration (MGS), Walsh D, O'Neill FA, Kendler KS, Riley BP, Fanous AH. (2015). Meta-analysis of positive and negative symptoms reveals schizophrenia modifier, Schizophrenia Bulletin, doi: 10.1093/schbul/sbv119.
   * __Lee D*__, Bigdeli TB, Williamson VS, Vladimirov VI, Riley BP, Fanous AH, Bacanu SA. (2015). DISTMIX: Direct imputation of summary statistics for unmeasured SNPs from mixed ethnicity cohorts, Bioinformatics, doi: 10.1093/bioinformatics/btv348.
   * Williamson VS, Mamdani M, McMichael GO, Kim AH, __Lee D__, Bacanu SA, Vladimirov VI. (2015). Expression Quantitative Trait Loci (eQTLs) in microRNA Genes are Enriched for Schizophrenia and Bipolar Disorder Association Signals, Psychological Medicine, doi: 10.1017/S0033291715000483.
