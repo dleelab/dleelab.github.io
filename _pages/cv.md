@@ -44,7 +44,7 @@ Publications
   * Docherty AR, Bigdeli TB, Edwards AC, Bacanu SA, __Lee D__, Neale MC, Wormley BK, Walsh D, O’Neill FA, Riley BP, Kendler KS, Fanous AH. (2015). Gene-based and gene pathway analysis of symptom dimensions of psychotic illness based on schizophrenia-specific model of the OPCRIT, Schizophrenia Research, doi: 10.1016/j.schres.2015.02.013.
   * __Lee D*__, Williamson VS, Bigdeli TB, Riley BP, Fanous AH, Vladimirov VI, Bacanu SA. (2014). JEPEG: a summary statistics based tool for gene-level joint testing of functional variants, Bioinformatics, doi: 10.1093/bioinformatics/btu816.
   * __Lee D*__, Bacanu SA. (2013). Association testing strategy for data from dense marker panels, PloS One, doi: 10.1371/journal.pone.0080540.
-  * __Lee D*__, Bigdeli TB, Riley BP, Fanous AH, Bacanu SA. (2013). DIST: direct imputation of summary statistics for unmeasured SNPs, Bioinformatics doi: 10.1093/bioinformatics/btt500.
+  * __Lee D*__, Bigdeli TB, Riley BP, Fanous AH, Bacanu SA. (2013). DIST: direct imputation of summary statistics for unmeasured SNPs, Bioinformatics doi: 10.1093/bioinformatics/btt500. <br/>
     __`*`__ Corresponding Author  
 
 * Non-peer reviewed preprints
